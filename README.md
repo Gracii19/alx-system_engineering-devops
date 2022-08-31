@@ -1,2 +1,1 @@
-current working directory
-current working directory
+My first readme in shell basics
